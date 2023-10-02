@@ -1,0 +1,3 @@
+[submodule "nowpos-app"]
+	path = nowpos-app
+	url = https://github.com/t-kawa-banpeiyu/nowpos-app
